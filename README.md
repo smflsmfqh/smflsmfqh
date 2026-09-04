@@ -6,7 +6,9 @@
 게임 규칙을 코드 구조로 옮기는 일을 좋아합니다.  
 데이터·입력·표현을 분리해, 나중에 바꿔도 무너지지 않는 시스템을 만듭니다.
 
-[Portfolio ↗](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935) · [Released Game ↗](https://store.onstove.com/ko/games/104973) · [Email](mailto:skyee46@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935)
+[![STOVE](https://img.shields.io/badge/STOVE-출시작_플레이-FF5A00?style=flat-square)](https://store.onstove.com/ko/games/104973)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skyee46@gmail.com)
 
 ---
 
@@ -16,7 +18,7 @@
 
 **3D 코믹 스텔스 어드벤처 · 개인 프로젝트 · 2026.05–2026.06**
 
-<img src="./assets/gif/honey-im-home.gif" width="100%" alt="사람의 발과 장애물을 피해 이동하는 여보, 나 왔어 플레이 화면">
+<img src="./assets/gif/honey-im-home.gif" width="720" alt="사람의 발과 장애물을 피해 이동하는 여보, 나 왔어 플레이 화면">
 
 만취한 아빠 개미가 아내의 메시지를 받으며 심부름을 마치고 집으로 돌아가는 게임입니다. 기획, 프로그래밍, 레벨 디자인을 단독으로 진행해 STOVE에 정식 출시했습니다.
 
@@ -29,13 +31,11 @@
 
 [GitHub ↗](https://github.com/Devel-Rocket-ClassRoom/minigame-project-smflsmfqh) · [Play on STOVE ↗](https://store.onstove.com/ko/games/104973) · [Case Study ↗](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935)
 
----
-
 ### 02 — Tower And Dragon
 
 **2D 아이소메트릭 디펜스 빌더 · 기업협약 팀 프로젝트 · 2026.07–2026.09**
 
-<img src="./assets/gif/tower-and-dragon.gif" width="100%" alt="그리드 위에 다중 셀 건물을 배치하는 Tower And Dragon 플레이 화면">
+<img src="./assets/gif/tower-and-dragon.gif" width="720" alt="그리드 위에 다중 셀 건물을 배치하는 Tower And Dragon 플레이 화면">
 
 그리드·청크 기반 건물 배치와 영역 점령으로 네 개의 포탈을 봉인하는 디펜스 빌더입니다. 4인 팀에서 그리드, 건물 배치, 점령, 자원 노드, 새끼용, 튜토리얼과 전투 이펙트를 담당했습니다.
 
@@ -70,8 +70,4 @@
 **Unity** · URP, New Input System, NavMesh, Tilemap, ScriptableObject  
 **Workflow** · Git, GitHub, Notion
 
----
-
 프로젝트별 플레이 화면, 클래스 구조와 상세 트러블슈팅은 [포트폴리오](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935)에 정리했습니다.
-
-**Contact** · [skyee46@gmail.com](mailto:skyee46@gmail.com)
