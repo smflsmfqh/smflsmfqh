@@ -22,7 +22,7 @@
 
 ## Featured Projects
 
-### 🐜 여보, 나 왔어
+### 여보, 나 왔어
 
 만취한 아빠 개미가 심부름을 마치고 집으로 돌아가는 3D 코믹 스텔스 어드벤처입니다.
 
@@ -33,7 +33,7 @@
 [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devel-Rocket-ClassRoom/minigame-project-smflsmfqh)
 [![Play](https://img.shields.io/badge/STOVE-Play-FF5A00?style=flat-square&logoColor=white)](https://store.onstove.com/ko/games/104973)
 
-### 🐉 Tower And Dragon
+### Tower And Dragon
 
 그리드·청크 기반 건물 배치와 영역 점령으로 네 개의 포탈을 봉인하는 2D 아이소메트릭 디펜스 빌더입니다.
 
@@ -43,7 +43,7 @@
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoKangHyeon/TowerAndDragon)
 
-### 🚇 미니 메트로
+### 미니 메트로
 
 노선을 그려 승객을 실어 나르는 미니멀 지하철 경영 시뮬레이션입니다.
 
