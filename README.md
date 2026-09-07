@@ -82,4 +82,4 @@
 **Unity** · URP, New Input System, NavMesh, Tilemap, ScriptableObject  
 **Workflow** · Git, GitHub, Notion
 
-플레이 화면, 클래스 구조, 트러블슈팅 전체는 [포트폴리오](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935)에 정리했습니다.
+각 프로젝트의 구현 방식과 트러블슈팅(문제·진단·해결·측정 결과)은 [포트폴리오](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935)에 정리했고, 위 프로젝트별 코드 바로가기는 그 내용을 뒷받침하는 실제 구현입니다.
