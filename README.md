@@ -6,7 +6,7 @@
 게임 규칙을 코드 구조로 옮기는 일을 좋아합니다.  
 데이터·입력·표현을 분리해, 나중에 바꿔도 무너지지 않는 시스템을 만듭니다.
 
-[![STOVE](https://img.shields.io/badge/STOVE-출시작_플레이-FF5A00?style=flat-square)](https://store.onstove.com/ko/games/104973)
+[![STOVE](https://img.shields.io/badge/STOVE-출시작_2종-FF5A00?style=flat-square)](#selected-work)
 [![Portfolio](https://img.shields.io/badge/Portfolio-노션-000000?style=flat-square&logo=notion&logoColor=white)](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skyee46@gmail.com)
 
@@ -16,7 +16,7 @@
 
 ### 01 — Tower And Dragon
 
-**2D 아이소메트릭 디펜스 빌더 · 기업협약 팀 프로젝트(4인) · 2026.07–2026.09 · STOVE 심사 중**
+**2D 아이소메트릭 디펜스 빌더 · 기업협약 팀 프로젝트(4인) · 2026.07–2026.09 · STOVE 정식 출시**
 
 <img src="./assets/gif/tower-and-dragon.gif" width="720" alt="그리드 위에 다중 셀 건물을 배치하는 Tower And Dragon 플레이 화면">
 
@@ -30,7 +30,7 @@
 
 > 팀 저장소는 현재 비공개입니다. 공개 전환 후 코드 링크를 추가할 예정이며, 그 전까지는 케이스 스터디에서 구조와 구현을 확인하실 수 있습니다.
 
-[상세 케이스 스터디 ↗](https://determined-stay-89e.notion.site/3cf9e55d7974811187c9f40b091d7c63)
+[STOVE에서 플레이 ↗](https://store.onstove.com/games/105708) · [상세 케이스 스터디 ↗](https://determined-stay-89e.notion.site/3cf9e55d7974811187c9f40b091d7c63)
 
 ### 02 — 여보, 나 왔어
 
