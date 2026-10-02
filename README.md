@@ -28,9 +28,7 @@
 
 `Unity` `C#` `URP` `2D Isometric` `ScriptableObject`
 
-> 팀 저장소는 현재 비공개입니다. 공개 전환 후 코드 링크를 추가할 예정이며, 그 전까지는 케이스 스터디에서 구조와 구현을 확인하실 수 있습니다.
-
-[STOVE에서 플레이 ↗](https://store.onstove.com/games/105708) · [상세 케이스 스터디 ↗](https://determined-stay-89e.notion.site/3cf9e55d7974811187c9f40b091d7c63)
+[저장소 ↗](https://github.com/smflsmfqh/TowerAndDragon) · [STOVE에서 플레이 ↗](https://store.onstove.com/games/105708) · [상세 케이스 스터디 ↗](https://determined-stay-89e.notion.site/3cf9e55d7974811187c9f40b091d7c63)
 
 ### 02 — 여보, 나 왔어
 
