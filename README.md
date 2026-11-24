@@ -76,4 +76,4 @@
 
 **Engine / Language** · Unity 6.3 LTS, C#  
 **Unity** · URP, New Input System, NavMesh, Tilemap, ScriptableObject  
-**Workflow** · Git, GitHub, Notion
+**Workflow** · Git, GitHub
