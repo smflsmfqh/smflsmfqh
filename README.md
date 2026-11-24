@@ -7,7 +7,6 @@
 데이터·입력·표현을 분리해, 나중에 바꿔도 무너지지 않는 시스템을 만듭니다.
 
 [![STOVE](https://img.shields.io/badge/STOVE-출시작_2종-FF5A00?style=flat-square)](#selected-work)
-[![Portfolio](https://img.shields.io/badge/Portfolio-노션-000000?style=flat-square&logo=notion&logoColor=white)](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skyee46@gmail.com)
 
 ---
@@ -28,7 +27,7 @@
 
 `Unity` `C#` `URP` `2D Isometric` `ScriptableObject`
 
-[저장소 ↗](https://github.com/smflsmfqh/TowerAndDragon) · [STOVE에서 플레이 ↗](https://store.onstove.com/games/105708) · [상세 케이스 스터디 ↗](https://determined-stay-89e.notion.site/3cf9e55d7974811187c9f40b091d7c63)
+[저장소 ↗](https://github.com/smflsmfqh/TowerAndDragon) · [STOVE에서 플레이 ↗](https://store.onstove.com/games/105708)
 
 ### 02 — 여보, 나 왔어
 
@@ -48,7 +47,7 @@
 [PlayerController.cs](https://github.com/smflsmfqh/HoneyI-mHome/blob/main/Assets/Scripts/Player/PlayerController.cs) ·
 [MapColliderSetup.cs](https://github.com/smflsmfqh/HoneyI-mHome/blob/main/Assets/Editor/MapColliderSetup.cs)
 
-[저장소 ↗](https://github.com/smflsmfqh/HoneyI-mHome) · [STOVE에서 플레이 ↗](https://store.onstove.com/ko/games/104973) · [상세 케이스 스터디 ↗](https://determined-stay-89e.notion.site/3cf9e55d797481f6a7b9cc7806c5e8ea)
+[저장소 ↗](https://github.com/smflsmfqh/HoneyI-mHome) · [STOVE에서 플레이 ↗](https://store.onstove.com/ko/games/104973)
 
 ---
 
@@ -69,7 +68,7 @@
 [AssetManager.cs](https://github.com/smflsmfqh/minimetro-project/blob/main/Assets/Scripts/AssetManager.cs) ·
 [PassengerManager.cs](https://github.com/smflsmfqh/minimetro-project/blob/main/Assets/Scripts/TrainPassenger/PassengerManager.cs)
 
-[저장소 ↗](https://github.com/smflsmfqh/minimetro-project) · [상세 ↗](https://determined-stay-89e.notion.site/3cf9e55d79748170b134ea8c18d81574)
+[저장소 ↗](https://github.com/smflsmfqh/minimetro-project)
 
 ---
 
@@ -78,5 +77,3 @@
 **Engine / Language** · Unity 6.3 LTS, C#  
 **Unity** · URP, New Input System, NavMesh, Tilemap, ScriptableObject  
 **Workflow** · Git, GitHub, Notion
-
-각 프로젝트의 구현 방식과 트러블슈팅(문제·진단·해결·측정 결과)은 [포트폴리오](https://determined-stay-89e.notion.site/Portfolio-3cf9e55d797480f0a9bbf420aacaf935)에 정리했고, 위 프로젝트별 코드 바로가기는 그 내용을 뒷받침하는 실제 구현입니다.
